@@ -1,3 +1,6 @@
+//Programa: https://www.arduino.cc/en/software/
+//Luzes semáforo
+
 void setup() {
   pinMode(8,OUTPUT);     //define o pino 8 como saída
   pinMode(9,OUTPUT);     //define o pino 9 como saída
